@@ -8,7 +8,7 @@
 
 <pre>
 💻 I am developing my skills as a Ethical Hacker
-🎯 Preparing for eJPTv2 and CPTS to level up my cybersecurity skills
+🎯 I am preparing myself so that, when I have enough knowledge, I can work in an intelligence agency.
 🌟 Main languages: bash,Python
 🌱 Continuously developing my technology and personal skills
 </pre>
