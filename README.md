@@ -7,10 +7,9 @@
 </p>
 
 <pre>
-💻 I am developing my skills as a Ethical Hacker/Pentester
+💻 I am developing my skills as a Ethical Hacker
 🎯 Preparing for eJPTv2 and CPTS to level up my cybersecurity skills
-🌟 Main languages: Python
-🔭 Working on my future YouTube channel
+🌟 Main languages: bash,Python
 🌱 Continuously developing my technology and personal skills
 </pre>
 
