@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋, i'm M4h0n3</h1>
+<h1 align="center"> Hi there 👋, i'm m4h0n3</h1>
 
 <p align="center">
 	<a href="https://github.com/rexmax47">
