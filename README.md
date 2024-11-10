@@ -9,7 +9,7 @@
 <pre>
 💻 I am developing my skills as a Ethical Hacker
 🎯 I am preparing myself so that, when I have enough knowledge, I can work in an intelligence agency.
-🌟 Main languages: bash,Python,coming soon C.
+🌟 Main languages: bash, Python, coming soon C.
 🌱 Continuously developing my technology and personal skills
 </pre>
 
