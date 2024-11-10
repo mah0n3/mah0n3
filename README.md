@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,kali,linux,bash,docker,vim" />
+    <img src="https://skillicons.dev/icons?i=bash,py,arch" />
   </a>
 </p>
 
